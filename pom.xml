@@ -11,5 +11,6 @@
     
     <modules>
         <module>bcwj-book-examples</module>
+        <module>my-examples</module>
     </modules>
 </project>
